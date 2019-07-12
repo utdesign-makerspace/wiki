@@ -2,13 +2,22 @@
 title: Equipment
 description: UTDesign Makerspace Equipment Info
 published: true
-date: 2019-07-12T19:52:21.463Z
+date: 2019-07-12T21:32:46.061Z
 tags: 
 ---
 ## Media Tools
 | Picture | Title | Description |
 | :------ | :---- | :---------- |
 | ![HTC Vive-img](https://dl.airtable.com/.attachments/bfcadc2a3ab671428700e132fa73f2fa/6ff8b3eb/DAS-7.jpg =100x)| HTC Vive | HTC Vive | 
+
+## undefineds
+| Picture | Title | Description |
+| :------ | :---- | :---------- |
+| ![Miter Saw-img]( =100x)| Miter Saw | A power miter saw, also known as a drop saw, is a power tool used to make a quick, accurate crosscut in a workpiece. Common uses include framing operations and the cutting of molding. | 
+| ![Scroll Saw-img]( =100x)| Scroll Saw | A scroll saw is a small electric or pedal-operated saw that is useful for cutting intricate curves | 
+| ![Bench Top Grinder-img]( =100x)| Bench Top Grinder | A bench grinder is a type of benchtop grinding machine used to drive abrasive wheels. A pedestal grinder is a larger version of a bench grinder that is mounted on a pedestal, which is bolted to the floor. | 
+| ![Drill Press-img]( =100x)| Drill Press | A Drill Press is a fixed style of drill that may be mounted on a stand or bolted to the floor or workbench. It can be used to drill holes in different materials | 
+| ![Vertical Band Saw-img]( =100x)| Vertical Band Saw | A bandsaw is a power tool which uses a blade consisting of a continuous band of metal with teeth along one edge to cut various workpieces. Perfect for wood working | 
 
 ## Fabrication Tools
 | Picture | Title | Description |
