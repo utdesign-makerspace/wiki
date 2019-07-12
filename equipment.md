@@ -2,7 +2,7 @@
 title: Equipment
 description: UTDesign Makerspace Equipment Info
 published: true
-date: 2019-07-12T21:35:24.659Z
+date: 2019-07-12T21:38:30.643Z
 tags: 
 ---
 ## Media Tools
@@ -10,7 +10,7 @@ tags:
 | :------ | :---- | :---------- |
 | ![HTC Vive-img](https://dl.airtable.com/.attachments/bfcadc2a3ab671428700e132fa73f2fa/6ff8b3eb/DAS-7.jpg =100x)| HTC Vive | HTC Vive | 
 
-## undefineds
+## Wood Working Tools
 | Picture | Title | Description |
 | :------ | :---- | :---------- |
 | ![Miter Saw-img]( =100x)| Miter Saw | A power miter saw, also known as a drop saw, is a power tool used to make a quick, accurate crosscut in a workpiece. Common uses include framing operations and the cutting of molding. | 
