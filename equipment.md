@@ -2,7 +2,7 @@
 title: Equipment
 description: UTDesign Makerspace Equipment Info
 published: true
-date: 2019-07-13T03:58:59.395Z
+date: 2019-07-13T22:03:21.291Z
 tags: 
 ---
 ## Media Tools
@@ -13,11 +13,11 @@ tags:
 ## Wood Working Tools
 | Picture | Title | Description |
 | :------ | :---- | :---------- |
-| ![Miter Saw-img]( =100x)| Miter Saw | A power miter saw, also known as a drop saw, is a power tool used to make a quick, accurate crosscut in a workpiece. Common uses include framing operations and the cutting of molding. | 
-| ![Scroll Saw-img]( =100x)| Scroll Saw | A scroll saw is a small electric or pedal-operated saw that is useful for cutting intricate curves | 
-| ![Bench Top Grinder-img]( =100x)| Bench Top Grinder | A bench grinder is a type of benchtop grinding machine used to drive abrasive wheels. A pedestal grinder is a larger version of a bench grinder that is mounted on a pedestal, which is bolted to the floor. | 
-| ![Drill Press-img]( =100x)| Drill Press | A Drill Press is a fixed style of drill that may be mounted on a stand or bolted to the floor or workbench. It can be used to drill holes in different materials | 
-| ![Vertical Band Saw-img]( =100x)| Vertical Band Saw | A bandsaw is a power tool which uses a blade consisting of a continuous band of metal with teeth along one edge to cut various workpieces. Perfect for wood working | 
+| ![Miter Saw-img](https://dl.airtable.com/.attachments/dbe29290915e2183f45b6c1f1155e576/b0b3071b/71h3ti3piBL._SX425_.jpg =100x)| Miter Saw | A power miter saw, also known as a drop saw, is a power tool used to make a quick, accurate crosscut in a workpiece. Common uses include framing operations and the cutting of molding. | 
+| ![Scroll Saw-img](https://dl.airtable.com/.attachments/9374390bc665a1d91847f450c6a41b69/e64f51ff/727200b_main.jpg =100x)| Scroll Saw | A scroll saw is a small electric or pedal-operated saw that is useful for cutting intricate curves | 
+| ![Bench Top Grinder-img](https://dl.airtable.com/.attachments/1e8b3f0387f939e6faf6cfa97d480d17/474fc4ac/71Of3GVR8cL._SX425_.jpg =100x)| Bench Top Grinder | A bench grinder is a type of benchtop grinding machine used to drive abrasive wheels. A pedestal grinder is a larger version of a bench grinder that is mounted on a pedestal, which is bolted to the floor. | 
+| ![Drill Press-img](https://dl.airtable.com/.attachments/5a95e4767c7c999035b9a525a60946b6/a9ff28fa/jet-drill-presses-716000-64_1000.jpg =100x)| Drill Press | A Drill Press is a fixed style of drill that may be mounted on a stand or bolted to the floor or workbench. It can be used to drill holes in different materials | 
+| ![Vertical Band Saw-img](https://dl.airtable.com/.attachments/766a7c569098fee609d4a54ead111755/f8543637/jet-stationary-band-saws-414500-64_1000.jpg =100x)| Vertical Band Saw | A bandsaw is a power tool which uses a blade consisting of a continuous band of metal with teeth along one edge to cut various workpieces. Perfect for wood working | 
 
 ## Fabrication Tools
 | Picture | Title | Description |
