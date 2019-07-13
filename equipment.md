@@ -2,10 +2,9 @@
 title: Equipment
 description: UTDesign Makerspace Equipment Info
 published: true
-date: 2019-07-12T21:38:30.643Z
+date: 2019-07-13T02:25:13.537Z
 tags: 
 ---
-
 ## Media Tools
 | Picture | Title | Description |
 | :------ | :---- | :---------- |
@@ -24,7 +23,7 @@ tags:
 | Picture | Title | Description |
 | :------ | :---- | :---------- |
 | ![CNC Machine -img](https://dl.airtable.com/.attachments/56f649d20b645c13c28f644f5e0c68dc/ef9d4035/Shapeoko-3_a952d600-902f-4999-979f-59e2e3f84f9b_1024x1024.jpg =100x)| CNC Machine  | undefined | 
-| ![Laser Cutter -img](https://dl.airtable.com/.attachments/bdaafd80285562ceb24ebe1aee2c05d0/fcfd125c/61bsOPw3BZL._SX425_.jpg =100x)| Laser Cutter  | undefined | 
+| ![Laser Cutter -img](https://dl.airtable.com/.attachments/bdaafd80285562ceb24ebe1aee2c05d0/fcfd125c/61bsOPw3BZL._SX425_.jpg =100x)| Laser Cutter  | Yeet | 
 | ![3D Gence Double P255-img](https://dl.airtable.com/.attachments/dbfb5398e7701f945bfd14d81b49f950/af0aa0ae/3dgence-double-p225.jpeg =100x)| 3D Gence Double P255 | Bla Bla Bla | 
 
 ## Electrical Tools
