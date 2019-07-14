@@ -2,9 +2,10 @@
 title: Equipment
 description: UTDesign Makerspace Equipment Info
 published: true
-date: 2019-07-14T21:21:44.134Z
+date: 2019-07-14T21:23:23.553Z
 tags: 
 ---
+
 ## Media Tools
 | Picture | Title | Description |
 | :--------- | :--------- | :--------- |
