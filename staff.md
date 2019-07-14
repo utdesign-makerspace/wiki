@@ -2,13 +2,14 @@
 title: Staff
 description: Blah Blah
 published: true
-date: 2019-07-14T01:37:43.731Z
+date: 2019-07-14T01:44:41.365Z
 tags: 
 ---
 | Picture | Name | Role |
 | :--------- | :--------- | :--------- |
-| ![Sabrina Banh-img]( =100x)| Sabrina Banh | President | 
-| ![Ariel Whitehead-img]( =100x)| Ariel Whitehead | Public Relations | 
-| ![Victor Omoto-img]( =100x)| Victor Omoto | Treasurer | 
-| ![Antonio Paredes-img]( =100x)| Antonio Paredes | Secretary | 
-| ![Cameron Steele-img]( =100x)| Cameron Steele | Vice President | 
+| ![Sabrina-img](https://utdesign-makerspace.github.io/dist/img/team/Sabrina-Photo.png =100x)| Sabrina Banh | President | 
+| ![Ariel-img](https://utdesign-makerspace.github.io/dist/img/team/Ariel-Photo.png =100x)| Ariel Whitehead | Public Relations | 
+| ![Victor-img](https://utdesign-makerspace.github.io/dist/img/team/Victor-Photo.png =100x)| Victor Omoto | Treasurer | 
+| ![Antonio-img](https://utdesign-makerspace.github.io/dist/img/team/Antonio-Photo.png =100x)| Antonio Paredes | Secretary | 
+| ![undefined-img](https://utdesign-makerspace.github.io/dist/img/team/undefined-Photo.png =100x)| undefined undefined | undefined | 
+| ![Cameron-img](https://utdesign-makerspace.github.io/dist/img/team/Cameron-Photo.png =100x)| Cameron Steele | Vice President | 
