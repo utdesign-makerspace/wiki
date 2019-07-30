@@ -2,7 +2,7 @@
 title: Homepage
 description: Test
 published: true
-date: 2019-07-30T16:58:24.001Z
+date: 2019-07-30T19:57:28.876Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 These pages are still under-construction, but feel free to browse.
 
-See an issue with our wiki? Report them here
+See an issue with our wiki? Report them [here](https://github.com/utdesign-makerspace/wiki/issues/new)
 
 ## Pages
 
