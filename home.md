@@ -2,7 +2,7 @@
 title: Homepage
 description: Test
 published: true
-date: 2019-07-19T03:11:39.479Z
+date: 2019-07-30T16:58:24.001Z
 tags: 
 ---
 
@@ -15,3 +15,4 @@ See an issue with our wiki? Report them here
 ## Pages
 
 - [Equipment](/equipment)
+- [3D Printing Training](/3d-printing-training)
