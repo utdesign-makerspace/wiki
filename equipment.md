@@ -23,7 +23,7 @@ tags:
 ## Fabrication Tools
 | Picture | Title | Description |
 | :--------- | :--------- | :--------- |
-| ![CNC Machine -img](https://dl.airtable.com/.attachments/56f649d20b645c13c28f644f5e0c68dc/ef9d4035/Shapeoko-3_a952d600-902f-4999-979f-59e2e3f84f9b_1024x1024.jpg =100x)| CNC Machine  | It cuts stuff | 
+| ![CNC Machine -img](https://dl.airtable.com/.attachments/56f649d20b645c13c28f644f5e0c68dc/ef9d4035/Shapeoko-3_a952d600-902f-4999-979f-59e2e3f84f9b_1024x1024.jpg =100x)| CNC Machine  | Custom Shapeoko CNC | 
 | ![Laser Cutter -img](https://dl.airtable.com/.attachments/bdaafd80285562ceb24ebe1aee2c05d0/fcfd125c/61bsOPw3BZL._SX425_.jpg =100x)| Laser Cutter  | Glowforge Basic | 
 | ![3D Gence Double P255-img](https://dl.airtable.com/.attachments/dbfb5398e7701f945bfd14d81b49f950/af0aa0ae/3dgence-double-p225.jpeg =100x)| 3D Gence Double P255 |  | 
 
