@@ -2,7 +2,7 @@
 title: 3D Printing Training
 description: Step by step instructions on how to get training
 published: true
-date: 2020-02-29T00:52:46.273Z
+date: 2020-02-29T00:53:07.847Z
 tags: 
 ---
 
