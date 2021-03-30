@@ -2,7 +2,7 @@
 title: Officer Positions
 description: 
 published: 1
-date: 2021-03-30T01:06:00.670Z
+date: 2021-03-30T21:08:18.327Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-30T01:06:00.670Z
@@ -32,7 +32,7 @@ Work with creative director to create posters, post on social media and keep the
 
 ### University Ambassador (Multiple): 
 
-Acts as a diplomat to their respective School (ECS, ATEC, JSOM, etc.). Managing communications with the various professors, deans, organizations and students of a given school.
+Acts as a diplomat to their respective School (ECS, ATEC, JSOM, etc.), managing communications with the various professors, deans, organizations and students of a given school.
 
 ### Head Of Facility: 
 
