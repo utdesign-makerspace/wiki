@@ -2,7 +2,7 @@
 title: Officer Positions
 description: 
 published: 1
-date: 2021-03-30T21:08:40.730Z
+date: 2021-03-30T21:08:50.573Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-30T01:06:00.670Z
@@ -40,7 +40,7 @@ Manages the day to day operations of the space, making sure things are tidy and 
 
 ### Club Ambassador: 
 
-Work with other clubs to host workshops, provide storage and workspace.
+Works with other clubs to host workshops, provide storage and workspace.
 
 ### Treasurer: 
 
