@@ -2,7 +2,7 @@
 title: Officer Positions
 description: 
 published: 1
-date: 2021-03-30T21:08:18.327Z
+date: 2021-03-30T21:08:40.730Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-30T01:06:00.670Z
@@ -36,7 +36,7 @@ Acts as a diplomat to their respective School (ECS, ATEC, JSOM, etc.), managing 
 
 ### Head Of Facility: 
 
-Manages the day to day operations of the space. Making sure things are tidy and pass inspection.
+Manages the day to day operations of the space, making sure things are tidy and pass inspection.
 
 ### Club Ambassador: 
 
