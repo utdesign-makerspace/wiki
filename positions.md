@@ -2,7 +2,7 @@
 title: Officer Positions
 description: 
 published: 1
-date: 2021-03-30T21:10:43.493Z
+date: 2021-03-30T21:11:18.181Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-30T01:06:00.670Z
@@ -28,7 +28,7 @@ Leads workshops, creates educational material and plan workshops.
 
 ### Marketing Coordinator: 
 
-Work with creative director to create posters, post on social media and keep the community updated on the goings on of the organization.
+Works with creative director to create posters, post on social media and keep the community updated on the goings on of the organization.
 
 ### University Ambassador (Multiple): 
 
